@@ -1,6 +1,4 @@
-# PSL-Recognition-with-Deep-Learning
-
-## 1. Polish Sign Language (PSL); Polski Język Migowy (PJM)
+# Polish Sign Language (PSL); Polski Język Migowy (PJM)
 <p>Polish Sign Language (PSL) is the primary language used by deaf individuals in Poland. It is used by hearing as well as hard-of-hearing individuals.
 </p>The language is as rich as spoken languages and employs signs made with the hand, along with facial gestures and bodily postures.</p>
 <p><img src="http://phavi.umcs.pl/ph/r,1200,630/agicon/c/2022/0331/586557462456be4eb3a5.png" alt="polish sign language"></p>
